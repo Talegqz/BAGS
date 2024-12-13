@@ -1,2 +1,2 @@
 # BAGS
-Coming soon
+Go to this Page(https://github.com/Michaelszj/bags)
